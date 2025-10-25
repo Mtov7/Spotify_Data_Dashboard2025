@@ -17,7 +17,7 @@ A Power BI dashboard created using my personal Spotify streaming data to explore
 - Most Stream Song: Andrea by Bad Bunny (24 Hours)
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](<img width="1327" height="767" alt="Manny PowerBI Spotify Data Dashboard" src="https://github.com/user-attachments/assets/0a86e3fb-fb0b-4c6e-b022-da2b4008b845" />)
+![Dashboard Preview]([<img width="1327" height="767" alt="Manny PowerBI Spotify Data Dashboard" src="https://github.com/user-attachments/assets/0a86e3fb-fb0b-4c6e-b022-da2b4008b845" /](https://github.com/Mtov7/Spotify_Data_Dashboard2025/blob/main/Manny%20PowerBI%20Spotify%20Data%20Dashboard.png)>)
 
 
 ## 📫 About Me
